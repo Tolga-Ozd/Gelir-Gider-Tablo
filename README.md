@@ -1,8 +1,7 @@
 ## Welcome to My Project!  👋
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
 ## All the project=> https://tolga-ozd.github.io/Gelir-Gider-Tablo/
-
-
+![Gelir-gider](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/3419237f-0f46-4728-80db-b97b1845d892)
 ## About Me
 I can quickly grasp new technologies and concepts to develop innovative and creative solutions to problems. I am always ready to learn about various technologies, tools and libraries.
 
